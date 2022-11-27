@@ -1,4 +1,4 @@
 # ChistoTochka
-[Сайт] https://makyhaky.github.io/ChistoTochka/ 
+[Сайт] (https://makyhaky.github.io/ChistoTochka/) 
 # Описание проекта
 Coming soon
