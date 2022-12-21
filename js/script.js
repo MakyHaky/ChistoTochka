@@ -19,21 +19,21 @@ async function updateCountdown(timer, time, btn) {
 
 document.getElementById("btnOn1").addEventListener('click', function() {
   var btn = document.getElementById("dropdownMenuButton1");
-  var time = 3;
+  var time = 300;
   var timer = document.getElementById("timer1");
   updateCountdown(timer, time, btn);
 })
 
 document.getElementById("btnOn2").addEventListener('click', function() {
   var btn = document.getElementById("dropdownMenuButton2");
-  var time = 3;
+  var time = 300;
   var timer = document.getElementById("timer2");
   updateCountdown(timer, time, btn);
 })
 
 document.getElementById("btnOn3").addEventListener('click', function() {
   var btn = document.getElementById("dropdownMenuButton3");
-  var time = 3;
+  var time = 300;
   var timer = document.getElementById("timer3");
   updateCountdown(timer, time, btn);
 })
